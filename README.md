@@ -1,2 +1,2 @@
-# Roke-Paper-scissors
+# Rock-Paper-scissors
 Game
